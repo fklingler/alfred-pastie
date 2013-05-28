@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.fklingler.alfred.boom</string>
+	<string>com.fklingler.alfred.pastie</string>
 	<key>connections</key>
 	<dict>
 		<key>2FBCF8D0-54B8-4DC1-8481-3BC7C7869BA5</key>
