@@ -16,14 +16,14 @@ Just type "pastie" inside Alfred to use the current clipboard content to create 
 ![Pastie](screenshots/pastie.png)
 ![Pastie Ruby](screenshots/pastie-ruby.png)
 
+Thanks
+------
+
+Thanks to [sosedoff](https://github.com/sosedoff/) for his [pastie-api gem](https://github.com/sosedoff/pastie) !
+
 Contribute
 ----------
 
 Don't hesitate to contribute! Issues and pull requests are here for that.
 
 The workflow uses [zhaocai's alfred2-ruby-template](https://github.com/zhaocai/alfred2-ruby-template) (and therefore [zhaocai's alfred-workflow gem](https://github.com/zhaocai/alfred-workflow)), which is awesome :). Look at its Readme before contributing.
-
-Thanks
-------
-
-Thanks to [sosedoff](https://github.com/sosedoff/) for his [pastie-api gem](https://github.com/sosedoff/pastie) !
