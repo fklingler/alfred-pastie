@@ -14,7 +14,6 @@ Usage
 Just type "pastie" inside Alfred to use the current clipboard content to create a Pastie.
 
 ![Pastie](screenshots/pastie.png)
-
 ![Pastie Ruby](screenshots/pastie-ruby.png)
 
 Contribute
