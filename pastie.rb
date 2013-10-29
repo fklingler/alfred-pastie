@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 require 'rubygems' unless defined? Gem
-require 'bundle/bundler/setup'
+require File.join(File.dirname(__FILE__), 'bundle/bundler/setup')
 
 require 'pastie-api'
 
